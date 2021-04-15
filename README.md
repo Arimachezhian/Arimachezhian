@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Arimachezhian
 - 👀 I’m interested in Programming in general
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate anything that I can be of any help
+- 💞️ I’m looking to collaborate with anything that I can be of any help
 - 📫 How to reach me try contacting my email
 
 <!---
